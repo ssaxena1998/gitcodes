@@ -3,6 +3,7 @@
 using namespace std;
 int main() {
     int a = 10;
+    int b = 20;
     cout<<"learning git and github";
     cout<<"\n  basics of git and github";
     cout<<"lolol";
